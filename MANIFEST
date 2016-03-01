@@ -1,0 +1,8 @@
+Changes
+lib/Data/Money/Converter.pm
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+README
+t/00-load.t
+t/simple.t

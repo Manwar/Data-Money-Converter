@@ -1,0 +1,9 @@
+Revision history for Data::Money::Converter
+
+0.02   2016-03-01 MANWAR
+       - Coverted to Moo role instead of Moose.
+       - Added standard load test.
+       - Fixed RT #112529 (raised by SREZIC).
+
+0.01   2010-03-28 GPHAT
+       - First version, released on an unsuspecting world.
