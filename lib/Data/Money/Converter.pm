@@ -1,6 +1,6 @@
 package Data::Money::Converter;
 
-$Data::Money::Converter::VERSION   = '0.02';
+$Data::Money::Converter::VERSION   = '0.03';
 $Data::Money::Converter::AUTHORITY = 'cpan:GPHAT';
 
 =head1 NAME
@@ -9,7 +9,7 @@ Data::Money::Converter - Moo Role for Data::Money Converters.
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
 
 =cut
 
@@ -59,8 +59,6 @@ Currently maintained by Mohammad S Anwar (MANWAR) C<< <mohammad.anwar at yahoo.c
 =head1 REPOSITORY
 
 L<https://github.com/manwar/Data-Money-Converter>
-
-=head1 ACKNOWLEDGEMENTS
 
 =head1 COPYRIGHT & LICENSE
 

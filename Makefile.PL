@@ -10,7 +10,7 @@ WriteMakefile(
     AUTHOR             => q{Corey Watson <gphat@cpan.org>},
     VERSION_FROM       => 'lib/Data/Money/Converter.pm',
     ABSTRACT_FROM      => 'lib/Data/Money/Converter.pm',
-    LICENSE            => 'perl',
+    LICENSE            => 'artistic_2',
     MIN_PERL_VERSION   => 5.006,
     CONFIGURE_REQUIRES => {
         'ExtUtils::MakeMaker' => 0,

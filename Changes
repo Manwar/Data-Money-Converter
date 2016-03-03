@@ -1,5 +1,8 @@
 Revision history for Data::Money::Converter
 
+0.03   2016-03-03 MANWAR
+       - Added LICENSE file.
+
 0.02   2016-03-01 MANWAR
        - Coverted to Moo role instead of Moose.
        - Added standard load test.
