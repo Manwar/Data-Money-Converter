@@ -3,7 +3,7 @@
 use 5.006;
 use strict;
 use warnings FATAL => 'all';
-use Test::More;
+use Test::More tests => 1;
 
 BEGIN { use_ok('Data::Money::Converter') || print "Bail out!\n"; }
 

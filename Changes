@@ -1,5 +1,9 @@
 Revision history for Data::Money::Converter
 
+0.04   2016-03-04 MANWAR
+       - Added section "SEE ALSO".
+       - Fixed typo in the pod document.
+
 0.03   2016-03-03 MANWAR
        - Added LICENSE file.
 

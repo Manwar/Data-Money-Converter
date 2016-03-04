@@ -1,6 +1,6 @@
 package Data::Money::Converter;
 
-$Data::Money::Converter::VERSION   = '0.03';
+$Data::Money::Converter::VERSION   = '0.04';
 $Data::Money::Converter::AUTHORITY = 'cpan:GPHAT';
 
 =head1 NAME
@@ -9,7 +9,7 @@ Data::Money::Converter - Moo Role for Data::Money Converters.
 
 =head1 VERSION
 
-Version 0.03
+Version 0.04
 
 =cut
 
@@ -21,8 +21,8 @@ requires 'convert';
 =head1 DESCRIPTION
 
 This simple  module provides a base for building currency conversion backends for
-L<Data::Money>. You can use  this module either as a basis for understanding the
-the common features or as a guide for implmenting your own converter.
+L<Data::Money>. You can use  this module either  as a basis for understanding the
+common features or as a guide for implementing your own converter.
 
 =head1 SYNOPSIS
 
@@ -59,6 +59,10 @@ Currently maintained by Mohammad S Anwar (MANWAR) C<< <mohammad.anwar at yahoo.c
 =head1 REPOSITORY
 
 L<https://github.com/manwar/Data-Money-Converter>
+
+=head1 SEE ALSO
+
+L<Data::Money>
 
 =head1 COPYRIGHT & LICENSE
 
