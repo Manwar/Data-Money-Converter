@@ -1,5 +1,9 @@
 Revision history for Data::Money::Converter
 
+0.05   2016-03-07 MANWAR
+       - Added key 'provides' to the Makefile.PL script.
+       - Upgraded to use Data::Money v0.17.
+
 0.04   2016-03-04 MANWAR
        - Added section "SEE ALSO".
        - Fixed typo in the pod document.

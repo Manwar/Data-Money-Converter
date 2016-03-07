@@ -1,6 +1,6 @@
 package Data::Money::Converter;
 
-$Data::Money::Converter::VERSION   = '0.04';
+$Data::Money::Converter::VERSION   = '0.05';
 $Data::Money::Converter::AUTHORITY = 'cpan:GPHAT';
 
 =head1 NAME
@@ -9,7 +9,7 @@ Data::Money::Converter - Moo Role for Data::Money Converters.
 
 =head1 VERSION
 
-Version 0.04
+Version 0.05
 
 =cut
 
