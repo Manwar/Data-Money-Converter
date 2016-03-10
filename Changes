@@ -1,5 +1,8 @@
 Revision history for Data::Money::Converter
 
+0.06   2016-03-10 MANWAR
+       - Added standard test t/pod.t and t/manifest.t scripts.
+
 0.05   2016-03-07 MANWAR
        - Added key 'provides' to the Makefile.PL script.
        - Upgraded to use Data::Money v0.17.

@@ -28,7 +28,7 @@ WriteMakefile(
     (eval { ExtUtils::MakeMaker->VERSION(6.46) } ? (META_MERGE => {
         'meta-spec' => { version => 2 },
         provides    => {
-            'Data::Money::Converter' => { file => 'lib/Data/Money/Converter.pm', version => '0.05' },
+            'Data::Money::Converter' => { file => 'lib/Data/Money/Converter.pm', version => '0.06' },
         },
         resources => {
             repository => {

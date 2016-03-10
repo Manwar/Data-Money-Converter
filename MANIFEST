@@ -7,3 +7,5 @@ MANIFEST.SKIP
 README
 t/00-load.t
 t/simple.t
+t/pod.t
+t/manifest.t
