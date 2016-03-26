@@ -1,5 +1,8 @@
 Revision history for Data::Money::Converter
 
+0.07   2016-03-26 MANWAR
+       - Added test scripts t/meta-json.t and t/meta-yml.t
+
 0.06   2016-03-10 MANWAR
        - Added standard test t/pod.t and t/manifest.t scripts.
 
